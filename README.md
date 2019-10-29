@@ -7,7 +7,7 @@ Achieved an accuracy of 94% to predict between 6 categories with 561 features.
 It's amazing we can differential between standing and sitting and reaching 94% accuracy.
 
 ## Overview :
-The is the simplest method to achieve best accuracy with relevant results and proper evaluation of it. 
+The is the simplest method to achieve best accuracy with relevant results and proper evaluation of it. Done in jupyter notebook.
 
 ## Short summary of data :
 The data contains 561 features with the task to predict between 6 categories i.e. sitting, standing, walking, walking upstairs, walking downstairs and laying. The features are generated with only two sensors (accelometer and gyroscope) which are in time and frequency domain.
